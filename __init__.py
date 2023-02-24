@@ -1,4 +1,4 @@
-#dev by much.s.
+#dev by mizmu.
 #Part of this addon from addon 1024346707 by Arthur Milchior
 #Support my development by Buy Me Coffee - https://www.buymeacoffee.com/jhhomshl
 
